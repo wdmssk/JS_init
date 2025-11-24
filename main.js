@@ -4,7 +4,7 @@
 
 // Entry point
 function main() {
-  console.log("Hello, JavaScript!");
+  console.log("JavaScript!");
 }
 
 // Run
